@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Students" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#4A90E2</item>
+        <item name="colorPrimaryDark">#357ABD</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.Students" parent="Base.Theme.Students" />
+</resources>
